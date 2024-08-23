@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homepage on Hugo Serif Theme</title>
+    <title>Homepage on Benzyme Ventures</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Homepage on Hugo Serif Theme</description>
+    <description>Recent content in Homepage on Benzyme Ventures</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 20 Dec 2018 13:44:55 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Peter Van Eijk</title>
+      <title>Cris Silva</title>
       <link>http://localhost:1313/team/peter-van-eijk/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
       <guid>http://localhost:1313/team/peter-van-eijk/</guid>
@@ -63,27 +63,6 @@
       <pubDate>Thu, 20 Dec 2018 13:44:55 +1000</pubDate>
       <guid>http://localhost:1313/team/tamara-ells/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
-    </item>
-    <item>
-      <title>Mergers</title>
-      <link>http://localhost:1313/services/mergers/</link>
-      <pubDate>Wed, 28 Nov 2018 15:15:34 +1000</pubDate>
-      <guid>http://localhost:1313/services/mergers/</guid>
-      <description>&lt;p&gt;Mergers involve the combination of two or more companies into a single entity, typically aimed at achieving synergies, expanding market presence, or enhancing competitive advantages.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Superannuation</title>
-      <link>http://localhost:1313/services/superannuation/</link>
-      <pubDate>Wed, 28 Nov 2018 15:14:54 +1000</pubDate>
-      <guid>http://localhost:1313/services/superannuation/</guid>
-      <description>&lt;p&gt;We provide expert guidance on setting up and structuring superannuation funds, ensuring compliance with regulatory requirements, and implementing tax-efficient strategies.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Tax Preparation</title>
-      <link>http://localhost:1313/services/tax-preperation/</link>
-      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/services/tax-preperation/</guid>
-      <description>Our tax preparation accounting service offers a reliable and efficient solution for individuals and businesses seeking expert assistance in managing their tax obligations.</description>
     </item>
     <item>
       <title>About</title>

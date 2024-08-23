@@ -1,17 +1,17 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients recieve an obligation free consultation.",
+    "title": "Professional Development",
+    "description": "Opportunities for mentorship, advanced training, and career growth, empowering members to reach their full potential.",
     "image": "images/features/noun_branding_1885335.svg"
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Knowledge Exchange",
+    "description": "A platform for members to share insights, learn from each other, and access a rich library of resources",
     "image": "images/features/noun_The Process_1885341.svg"
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Collaboration and Innovation",
+    "description": "A community-driven environment where diverse expertise comes together to create innovative projects and solutions.",
     "image": "images/features/noun_3d modeling_1885342.svg"
   }
 ]

@@ -2,7 +2,7 @@ baseURL = "http://localhost:1313/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "en-us"
-title = "Hugo Serif Theme"
+title = "Benzyme Ventures"
 
 [module]
   [module.hugoVersion]
@@ -16,7 +16,7 @@ title = "Hugo Serif Theme"
   favicon = "favicon-32x32.svg"
 
   [params.homepage]
-    show_contact_box = true      # show / hide the contaxt box on the homepage
+    show_contact_box = false      # show / hide the contaxt box on the homepage
     show_services_button = false # show / hide the "view all services" button
 
   [params.logo]
@@ -24,7 +24,7 @@ title = "Hugo Serif Theme"
     mobile_height = "36px"
     desktop = "images/logo/logo.svg"
     desktop_height = "36px"
-    alt = "Serif - A Hugo Business Theme"
+    alt = "Benzyme Ventures"
 
   [params.fonts]
     # sets the google font link in layouts/partials/google-fonts.html
@@ -33,7 +33,7 @@ title = "Hugo Serif Theme"
     base = "Source Sans Pro"
 
   [params.colors]
-    primary = "#f24088"
+    primary = "#091a3e"
     black = "#2f2f41"
     white = "#ffffff"
     white_offset = "#f6f7ff"
@@ -56,7 +56,7 @@ title = "Hugo Serif Theme"
 [menu]
   # Main Menu
   [[menu.main]]
-    name = "Services"
+    name = "What we do"
     url = "/services/"
     weight = 1
 
