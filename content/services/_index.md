@@ -6,6 +6,10 @@ intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
 
-# Services that grow with your business
+# What we do and why we do it?
 
-Aliquam erat volutpat. Morbi nisl tortor, dignissim eget efficitur vel, auctor non felis. Fusce quis viverra mi. Aenean quis massa pretium, ullamcorper nisi eget, hendrerit odio.
+At Benzyme Ventures, we focus on three core areas: Knowledge Exchange, Collaboration and Innovation, and Professional Development. 
+
+We do this because we believe that when diverse minds come together, sharing knowledge and working collaboratively, the possibilities are limitless. 
+
+Our goal is to create a space where innovation thrives, where members can explore new ideas, challenge themselves, and contribute to a community that supports their growth. By focusing on these three pillars, we aim to make a lasting impact on both our members and the wider world.

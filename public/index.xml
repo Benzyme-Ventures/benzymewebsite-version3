@@ -16,18 +16,18 @@
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#xA;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     <item>
-      <title>Accounting</title>
-      <link>http://localhost:1313/services/accounting/</link>
+      <title>Projects</title>
+      <link>http://localhost:1313/services/projects/</link>
       <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/services/accounting/</guid>
-      <description>&lt;p&gt;Financial accounting (or financial accountancy) is the field of accounting concerned with the &lt;strong&gt;summary, analysis and reporting&lt;/strong&gt; of financial transactions related to a business.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/services/projects/</guid>
+      <description>&lt;p&gt;At Benzyme, we &lt;strong&gt;collaborate&lt;/strong&gt; on interdisciplinary projects that combine diverse expertise, driving innovation and personal growth while creating groundbreaking outcomes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Business Advisory</title>
-      <link>http://localhost:1313/services/business-advisory/</link>
+      <title>Workshops and Seminars</title>
+      <link>http://localhost:1313/services/workshops/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
-      <guid>http://localhost:1313/services/business-advisory/</guid>
-      <description>Business Advisory is a specialized account service that offers expert guidance and strategic support to businesses.</description>
+      <guid>http://localhost:1313/services/workshops/</guid>
+      <description>At Benzyme, our workshops and seminars are dynamic, interactive which foster knowledge exchange, inspire collaboration, and spark new ventures through shared insights and expert guidance.</description>
     </item>
     <item>
       <title>Sage Kirk</title>
@@ -51,11 +51,11 @@
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
     </item>
     <item>
-      <title>Business Sales</title>
-      <link>http://localhost:1313/services/business-sales/</link>
+      <title>Gatherings</title>
+      <link>http://localhost:1313/services/gatherings/</link>
       <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
-      <guid>http://localhost:1313/services/business-sales/</guid>
-      <description>&lt;p&gt;Business Sales refers to the process of selling a company or its assets to interested buyers, often involving the transfer of ownership and control.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/services/gatherings/</guid>
+      <description>&lt;p&gt;At Benzyme, our gatherings are the heart and soul of our community, a time to &lt;strong&gt;connect&lt;/strong&gt;, share, and inspire.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Tamara Ells</title>
