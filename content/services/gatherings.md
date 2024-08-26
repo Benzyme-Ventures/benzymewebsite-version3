@@ -3,7 +3,7 @@ title: "Gatherings"
 date: 2018-11-28T15:15:26+10:00
 featured: true
 draft: false
-weight: 3
+weight: 1
 summary: "At Benzyme, our gatherings are the heart and soul of our community, a time to connect, share, and inspire."
 ---
 

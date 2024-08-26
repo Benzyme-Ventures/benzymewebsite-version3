@@ -3,7 +3,7 @@ title: "Projects"
 date: 2018-11-18T12:33:46+10:00
 draft: false
 featured: true
-weight: 1
+weight: 3
 ---
 
 At Benzyme, we **collaborate** on interdisciplinary projects that combine diverse expertise, driving innovation and personal growth while creating groundbreaking outcomes.

@@ -8,4 +8,4 @@ intro_image_hide_on_mobile: false
 
 # Meet The Team
 
-Our team of qualified accountants can help your business at any stage. 
+Meet the passionate individuals who bring Benzyme Ventures to life. Our team is a diverse group of innovators, creators, and leaders dedicated to making our vision a reality.
