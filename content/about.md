@@ -3,7 +3,9 @@ title: 'About'
 date: 2018-02-22T17:01:34+07:00
 ---
 
-Benzyme Ventures was born during the COVID-19 pandemic as a community focused on educational projects in the life sciences in Sri Lanka. For nearly three years, we dedicated ourselves to advancing knowledge and fostering collaboration in this critical field. As we’ve grown, so has our vision. Today, we’ve expanded our scope to empower individuals across various disciplines, driving innovation and creativity at the intersection of science, technology, and the arts, with a more global approach.
+Benzyme Ventures was born during the COVID-19 pandemic as a community focused on educational projects in the life sciences in Sri Lanka. For nearly three years, we dedicated ourselves to advancing knowledge and fostering collaboration in this critical field. 
+
+As we’ve grown, so has our vision. Today, we’ve expanded our scope to empower individuals across various disciplines, driving innovation and creativity at the intersection of science, technology, and the arts, with a more global approach.
 
 ![About Us](/images/smartworks-coworking-cW4lLTavU80-unsplash.jpg)
 
@@ -51,42 +53,5 @@ To apply for membership, you can send your CV and a small description of why you
 Our selection process involves an application review where we assess your alignment with our values, your passion for innovation, and your willingness to collaborate. We may also conduct interviews to better understand your goals and how you can contribute to the community.
 
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
-
-## Postquam tamen
-
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.

@@ -9,11 +9,11 @@
     <lastBuildDate>Wed, 28 Nov 2018 15:15:26 +1000</lastBuildDate>
     <atom:link href="http://localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Projects</title>
-      <link>http://localhost:1313/services/projects/</link>
-      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
-      <guid>http://localhost:1313/services/projects/</guid>
-      <description>&lt;p&gt;At Benzyme, we &lt;strong&gt;collaborate&lt;/strong&gt; on interdisciplinary projects that combine diverse expertise, driving innovation and personal growth while creating groundbreaking outcomes.&lt;/p&gt;</description>
+      <title>Gatherings</title>
+      <link>http://localhost:1313/services/gatherings/</link>
+      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
+      <guid>http://localhost:1313/services/gatherings/</guid>
+      <description>&lt;p&gt;At Benzyme, our gatherings are the heart and soul of our community, a time to &lt;strong&gt;connect&lt;/strong&gt;, share, and inspire.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Workshops and Seminars</title>
@@ -23,11 +23,11 @@
       <description>At Benzyme, our workshops and seminars are dynamic, interactive which foster knowledge exchange, inspire collaboration, and spark new ventures through shared insights and expert guidance.</description>
     </item>
     <item>
-      <title>Gatherings</title>
-      <link>http://localhost:1313/services/gatherings/</link>
-      <pubDate>Wed, 28 Nov 2018 15:15:26 +1000</pubDate>
-      <guid>http://localhost:1313/services/gatherings/</guid>
-      <description>&lt;p&gt;At Benzyme, our gatherings are the heart and soul of our community, a time to &lt;strong&gt;connect&lt;/strong&gt;, share, and inspire.&lt;/p&gt;</description>
+      <title>Projects</title>
+      <link>http://localhost:1313/services/projects/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      <guid>http://localhost:1313/services/projects/</guid>
+      <description>&lt;p&gt;At Benzyme, we &lt;strong&gt;collaborate&lt;/strong&gt; on interdisciplinary projects that combine diverse expertise, driving innovation and personal growth while creating groundbreaking outcomes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
