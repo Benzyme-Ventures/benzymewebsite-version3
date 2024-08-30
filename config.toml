@@ -51,7 +51,7 @@ title = "Benzyme Ventures"
     summary_large_truncate = 120 # How many characters to include in the summary of the team bios (large layout) before truncating
 
   [params.footer]
-    copyright_text = 'Free Hugo theme by <a class="zerostatic" href="https://www.zerostatic.io">www.zerostatic.io</a>'
+    copyright_text = 'Create and Maintain by <a class="Benzyme Ventures" href="https://github.com/Benzyme-Ventures">Benzyme Ventures</a>'
 
 [menu]
   # Main Menu
