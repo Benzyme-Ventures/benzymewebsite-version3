@@ -7,7 +7,7 @@ Benzyme Ventures was born during the COVID-19 pandemic as a community focused on
 
 As we’ve grown, so has our vision. Today, we’ve expanded our scope to empower individuals across various disciplines, driving innovation and creativity at the intersection of science, technology, and the arts, with a more global approach.
 
-![About Us](/images/smartworks-coworking-cW4lLTavU80-unsplash.jpg)
+![About Us](/images/about.svg)
 
 # Frequently Asked Questions (FAQs)
 
